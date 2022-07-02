@@ -1,14 +1,30 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/KerbisIffin/DataScience/tree/main/Project_00/README.md#Описание-проекта)
-[2. Какой кейс решаем?](https://github.com/KerbisIffin/DataScience/tree/main/Project_00/README.md#Какой-кейс-решаем)
-[3. Краткая информация о данных]
+[1. Описание проекта](https://github.com/KerbisIffin/DataScience/tree/main/Project_00/README.md#Описание-проекта
+)
+[2. Какой кейс решаем?](https://github.com/KerbisIffin/DataScience/tree/main/Project_00/README.md#Какой-кейс-решаем
+)
+[3. Краткая информация о данных](https://github.com/KerbisIffin/DataScience/tree/main/Project_00/README.md#Краткая-информация-о-данных
+)
 
 
 
 ### Описание проекта
 Угадать загаданное копьютером число за минимальное количество попыток
 
+
+
+
+
+
+
 ### Какой кейс решаем?
 Нужно написать программу, которая которая угадывает число за мингимальное количество попыток
+
+
+
+
+
+### Краткая информация о данных
+Здесь будет город-сад!
