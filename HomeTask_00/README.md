@@ -1,7 +1,7 @@
 # Самостоятельное задание 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/KerbisIffin/DataScience/tree/main/HomeTask_00/README.md#Описание-проекта)  
+[1. Описание проекта](https://github.com/KerbisIffin/DataScience/tree/main/HomeTask_00/README.md#Описание-проекта)
 [2. Какой кейс решаем?](https://github.com/KerbisIffin/DataScience/tree/main/HomeTask_00/README.md#Какой-кейс-решаем)  
 [3. Условия задания](https://github.com/KerbisIffin/DataScience/tree/main/HomeTask_00/README.md#Условия-задания)  
 [4. Метрика качества](https://github.com/KerbisIffin/DataScience/tree/main/HomeTask_00/README.md#Метрика-качества)  
